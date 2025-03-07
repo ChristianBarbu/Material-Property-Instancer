@@ -18,7 +18,7 @@
 2. Click the **+** button in the top-left corner.
 3. Select **"Add package from git URL..."**.
 4. Enter the repository URL:
-https://github.com/yourusername/MaterialPropertyInstancer.git
+[https://github.com/yourusername/MaterialPropertyInstancer.git](https://github.com/ChristianBarbu/Material-Property-Instancer.git)
 
 5. Click **"Add"**.
 
