@@ -1,5 +1,7 @@
 # Unity Material Property Instancer
 
+## (One material, multiple properties)
+
 ## Overview
 
 **Unity Material Property Instancer** is a lightweight solution for controlling material properties on a per-instance basis while still using shared materials. It optimizes GPU memory usage while giving you granular control over shader properties. With this package, you can:
