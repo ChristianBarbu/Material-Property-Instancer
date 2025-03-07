@@ -66,7 +66,7 @@ The default value based on the chosen type.
 
 ### Basic Setup Example
 
-![Preview Inspector](images/PreviewInspector.png)
+![Preview Inspector](PreviewInspector.png)
 
 ```csharp
 using UnityEngine;
